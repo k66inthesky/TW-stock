@@ -5,7 +5,7 @@
 + 贊助我 (另供2支程式: 回測與get_ids)
 https://www.buymeacoffee.com/k66inthesky/e/216935
 
-+ 教學影片:
++ 教學影片: https://www.youtube.com/watch?v=p3U6V91wWlg
 
 + Log:
   - v1.0 台股上市股
