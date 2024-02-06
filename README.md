@@ -2,7 +2,7 @@
 + 提供完整台股上市股逾10+年資料，及爬蟲程式。
 + 2024年持續更新
 
-+ 贊助 (另供2支程式: 回測與get_ids)
++ 贊助我 (另供2支程式: 回測與get_ids)
 https://www.buymeacoffee.com/k66inthesky/e/216935
 
 + 教學影片:
