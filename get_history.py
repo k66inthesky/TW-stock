@@ -3,10 +3,8 @@ import numpy as np
 import requests, json
 import pandas as pd
 
-
-#TODO: 1.加上進度條,及作者和完成時間
-#TODO: 3.13年(民99-民112)台股資料需時9小時，故要改採cuDF，但cuDF只能用於Linux,故要把檔案存github
-#TODO: 4.用WSL開,安裝cuDF
+# 13年(民99-民112)台股資料需時9小時，
+# 若讀者未來想加速: 可改採用cuDF，目前cuDF只支援Linux, Windows用戶可使用WSL開再安裝cuDF。
 
 # 印出本程式介紹
 def Intro():
